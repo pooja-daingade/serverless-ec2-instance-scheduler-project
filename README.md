@@ -16,7 +16,7 @@ Automate EC2 instance **start/stop** operations using:
 **Goal:** Cost Optimization & Automated Instance Management.
 
 ##  Architecture
-![Serverless EC2 Instance Scheduler Architecture]<img width="1536" height="1024" alt="Serverless EC2 Scheduler Architecture" src="https://github.com/user-attachments/assets/0ec5f743-0d0e-45ee-b3ba-a1995a903879" />
+<img width="1536" height="1024" alt="Serverless EC2 Scheduler Architecture" src="https://github.com/user-attachments/assets/0ec5f743-0d0e-45ee-b3ba-a1995a903879" />
 
 Lambda uses an **IAM least-privilege role** to identify and manage only the EC2 instances tagged for automation.
 
@@ -74,8 +74,6 @@ Permissions are restricted to instances with the required resource tag.
 ##  Cost Optimization
 
 Automatically stopping EC2 instances when they are not required helps reduce unnecessary compute usage and supports **AWS cost optimization**.
-
-##  Project Structure
 
 
 ##  Project Outcome
