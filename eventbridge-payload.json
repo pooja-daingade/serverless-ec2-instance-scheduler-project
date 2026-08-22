@@ -1,0 +1,9 @@
+Start schedule:
+{
+  "action": "start"
+}
+
+Stop schedule:
+{
+  "action": "stop"
+}
